@@ -30,19 +30,21 @@ By intelligently routing queries between these two modes, the chatbot delivers b
 project-ecommerce-tool/
 │
 ├── app/
-│   ├── main.py              # Streamlit interface
-│   ├── faq.py               # RAG logic for FAQs
-│   ├── sql.py               # SQL generation and execution pipeline
-│   ├── router.py            # Intent classifier
-│   ├── resources/
-│   │   ├── faq_data.csv     # FAQ dataset
-│   │   ├── product-ss.png   # Product output screenshot
-│   │   └── architecture-diagram.png
-│   └── .env                 # Contains GROQ credentials
+│   ├── main.py
+│   ├── sql.py
+│   ├── router.py
+│   ├── faq.py
+│   └── resources/
+│       ├── db.sqlite
+│       ├── faq_data.csv
+│       ├── product-ss.png
+│       └── architecture-diagram.png
 │
-├── db.sqlite                # Product database
-├── web-scraping/            # Scripts for product data scraping
-└── README.md
+├── .env
+├── .gitignore
+├── README.md
+└── requirements.txt
+
 ````
 
 ---
