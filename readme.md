@@ -1,8 +1,4 @@
-Perfect — here’s your **personalized README.md** rewritten completely for your version of the project, credited to **Mahima Reddy Kota**, while keeping it clean, professional, and GitHub-ready 👇
 
----
-
-````markdown
 # 💬 E-commerce Chatbot (Gen AI RAG Project using LLama3.3 and GROQ)
 
 This is a **Proof of Concept (POC)** for an intelligent AI-powered chatbot tailored for an **e-commerce platform**, designed and implemented by **Mahima Reddy Kota**.  
@@ -147,9 +143,3 @@ MIT License © 2025 Mahima Reddy Kota
 Attribution is required for reuse.
 Commercial use without written permission is strictly prohibited.
 
----
-
-```
-
-
-```
